@@ -1,0 +1,14 @@
+table{ height: 400px; width: 600px;
+    background-color: aqua;
+    text-shadow: 2px 2px 4px red;
+    
+}
+div{background-color: aqua;
+    text-shadow: 2px 3px 4px red;
+    font-size: larger;
+    font-variant-caps: petite-caps;
+
+height: 200px;width: 400; 
+padding-left: 100px;
+padding-top: 100px;
+}
